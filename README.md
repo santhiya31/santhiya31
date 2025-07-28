@@ -1,74 +1,88 @@
-<!-- Profile README for santhiya31 -->
-
-<h1 align="center">🚀 Hey, I'm <span style="color:#FF7043;">Santhiya!</span> 👩‍💻</h1>
+<h1 align="center">👋 Hi, I'm Santhiya!</h1>
 <p align="center">
-  <b>Full-Stack Developer | AI Explorer | Final-Year IT Student</b><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=FF7043&vCenter=true&center=true&width=420&lines=Fueled+by+Code+%26+Curiosity;Building+Future-Ready+Tech;AI+%26+UX+Fanatic;Always+Hacking+on+Something+New!" alt="Typing SVG" />
+  Final-year IT Student | Full-Stack Developer | AI Enthusiast
 </p>
 
 ---
 
-### 💡 Developer at Heart
+### 👩‍💻 About Me
 
-Hi! I’m Santhiya, an <b>IT student</b> in my final year who lives and breathes code. I’m all about building, breaking, and inventing things—whether it’s a sleek web app, an AI-powered tool, or a platform that makes real-world impact.
-
-- ⚡ **Frontend:** React, HTML, CSS, JavaScript  
-- ⚙️ **Backend:** Node.js, Express, MySQL, MongoDB  
-- 🛠️ **Dev Tools:** GitHub, Firebase, Render, VS Code  
-- 🎨 **Passions:** UI/UX magic, AI integrations, scalable web/mobile apps
-
----
-
-### 🌟 My Top Projects
-
-- 📝 <b>AI Resume Analyzer + Job Match System</b>  
-  <i>Automates resume scoring, matches candidates to live jobs with real-time APIs, and gives smart improvement tips.</i>
-
-- 🏎️ <b>TyreWhizz <span style="color:#FFD700;">(KPIT Sparkle Finalist)</span></b>  
-  <i>IoT meets software: A tyre performance monitoring system with live analytics and hardware integration.</i>
-
-- 🌐 <b>Community Web App</b>  
-  <i>Connects citizens, powers social good, and keeps communities informed—one click at a time.</i>
+- 🎓 Final-year Information Technology student
+- 💼 Actively involved in internships and real-world projects
+- 🌐 Building full-stack web & mobile apps
+- 🤖 Exploring AI integrations and smart solutions
+- 🎨 Passionate about UI/UX and user-centric design
+- 🚀 Always learning and growing my tech stack
 
 ---
 
-### 🧠 Always Leveling Up
+### 🛠️ Tech Stack
 
-- Sharpening my backend/A.I. game with <b>Java</b> & <b>Python</b>
-- Diving deeper into <b>cloud computing</b> and scalable architectures
-- Constantly prototyping, hacking, and learning new tech—because why not?
+#### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/>
+</p>
+
+#### Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="32" height="32"/>
+</p>
+
+#### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32"/>
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/main/render.svg" alt="Render" width="32" height="32"/>
+</p>
 
 ---
 
-### 🏅 Achievements & Fun Stuff
+### 🚩 Projects
 
-- 🥇 <b>National-level finalist</b> (KPIT Sparkle)
-- 💬 Love collaborating at hackathons and tech communities
-- 🌍 Building projects that solve real problems—tech for good!
+- 📝 **AI Resume Analyzer + Job Match System**  
+  Intelligent tool for resume scoring, job matching with APIs, and improvement suggestions.
+
+- 🏎️ **TyreWhizz** *(KPIT Sparkle Finalist)*  
+  Tyre performance monitoring system with software and hardware integration.
+
+- 🌍 **Community Web App**  
+  Platform for local citizens to connect, report issues, and share updates.
 
 ---
 
-### 🌈 Let’s Connect & Code!
+### 🏅 Achievements
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/santhiya-k12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/santhiya31" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://santhiya31.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7043?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/santhiya200331" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/sant31" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef" /></a>
+- 🏆 KPIT Sparkle National-level Finalist
+- 💡 Hackathon participant & tech community member
+- 🌱 Always building something new!
+
+---
+
+### 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/santhiya-k12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/santhiya31" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a>
+  <a href="https://santhiya31.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox-browser"></a>
+  <a href="https://www.hackerrank.com/profile/santhiya200331" target="_blank"><img src="https://img.shields.io/badge/HackerRank-darkgreen?style=flat&logo=hackerrank"></a>
+  <a href="https://www.codechef.com/users/sant31" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhiya31&show_icons=true&theme=radical" alt="santhiya31's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhiya31&theme=radical" alt="santhiya31's GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <b>💬 Drop me a message, share a cool repo, or let’s build something awesome together.<br>
-  Curiosity > Comfort Zone. Always. 🚀</b>
+  <i>Always building, always learning. Let’s connect!</i>
 </p>
