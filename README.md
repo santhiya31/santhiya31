@@ -45,7 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="32" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/main/render.svg" alt="Render" width="32" height="32"/>
+ <img src="https://img.shields.io/badge/Render-cloud-blue" width="32" height="32" alt="VS Code"/>
+ 
 </p>
 
 ---
